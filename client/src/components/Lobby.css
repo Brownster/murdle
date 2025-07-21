@@ -1,0 +1,21 @@
+.lobby {
+  padding: 20px;
+}
+
+.player-list {
+  list-style: none;
+  padding: 0;
+}
+
+.player-list li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.avatar {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+}
